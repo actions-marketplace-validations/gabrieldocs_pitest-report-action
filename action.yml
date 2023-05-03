@@ -6,6 +6,7 @@ on:
   pull_request:
     branches: [main] # ajuste para a branch desejada
 
+# Lista de jobs da action
 jobs:
   build:
 
